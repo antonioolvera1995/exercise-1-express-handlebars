@@ -1,0 +1,2 @@
+#Ejercicio en el recoge los datos de unos clientes y los muestra en la ruta http://localhost:3000/clients/show, utilizando Handlebars.
+#Las rutas http://localhost:3000/clients y http://localhost:3000/clients/client/:id te devuelve el contenido de la base de datos en formato JSON.
